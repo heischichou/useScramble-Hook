@@ -1,0 +1,28 @@
+{
+  "name": "use-scramble",
+  "version": "1.0.0",
+  "description": "A reusable React hook that scrambles a text string by incrementally progressing through a collection of frames.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heischichou/useScramble-Hook.git"
+  },
+  "keywords": [
+    "react",
+    "react hooks"
+  ],
+  "author": "Jan Michael Garot",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/heischichou/useScramble-Hook/issues"
+  },
+  "homepage": "https://github.com/heischichou/useScramble-Hook#readme",
+  "dependencies": {
+    "react": "^19.1.1",
+    "typescript": "^5.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "@types/react": "^19.1.12"
+  }
+}
